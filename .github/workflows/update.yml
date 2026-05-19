@@ -1,0 +1,47 @@
+name: Mise à jour du flux RSS toutes les 6 heures
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Run script
+        run: |
+          for script in $(find generation -type f -name "*.py"); do
+            echo "Running $script"
+            python "$script" || echo "Script failed: $script"
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add rss/
+          git commit -m "Update RSS" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Flux RSS actualités VINCI</title>
+        <link>https://workai7.github.io/auto-rss/rss/vinci/actu.rss</link>
+        <description>Flux RSS contenant les informations sur les actualités du site de VINCI, généré par un script de scrapping</description>
+
+        <item>
+            <title>VINCI s&apos;engage en faveur de l&apos;orientation professionnelle des lycéennes</title>
+            <link>https://www.vinci.com/newsroom/actualites/vinci-sengage-en-faveur-de-lorientation-professionnelle-des-lyceennes</link>
+            <description>La féminisation des métiers techniques et de l’ingénierie reste un défi majeur, puisque seules 30 % des étudiantes des écoles d’ingénieurs sont des femmes en France. Pour y répondre, VINCI, la Fondation EPF et l’association Elles bougent ont lancé le programme « Dans la peau d’une ingénieure », destiné aux filles de seconde lors de leur stage obligatoire. Ce dispositif propose une immersion d’une semaine en école d’ingénieurs suivie d’une semaine en entreprise afin de découvrir les enseignements académiques et la réalité du terrain. Déjà testé avec succès en 2025, l’initiative sera étendue à plus grande échelle en 2026 pour déconstruire les stéréotypes et susciter des vocations féminines dans l’ingénierie.</description>
+            <pubDate>16 avril 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/image/2026/04/signature%20EPF%20-%20VINCI%20-45.jpg?h=a1e1a043&amp;itok=Ads5T_TU" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>VINCI renforce la structuration de son réseau de doctorants et chercheurs</title>
+            <link>https://www.vinci.com/newsroom/actualites/vinci-renforce-la-structuration-de-son-reseau-de-doctorants-et-chercheurs</link>
+            <description>VINCI souhaite renforcer le doctorat en entreprise via le dispositif Cifre pour intensifier le recrutement de docteurs et consolider un écosystème de collaboration entre chercheurs et équipes opérationnelles. Cette initiative vise à faciliter la circulation des connaissances, identifier des sujets de recherche à fort impact et intégrer les résultats scientifiques dans les projets du groupe, tout en créant un réseau interne de doctorants. La première édition du PhD Day, organisée fin 2025, a rassemblé une trentaine de doctorants du groupe afin de mieux faire connaître le doctorat en entreprise et de mettre en lumière leurs travaux de recherche.</description>
+            <pubDate>09 avril 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/image/2026/04/PHDDAY-VINCI-7oct2025%40AlexisTOUREAU10.jpg?h=be7d0682&amp;itok=7y4sCITA" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Congrès mondial de la route : des solutions VINCI pour la résilience et la décarbonation routière</title>
+            <link>https://www.vinci.com/newsroom/actualites/congres-mondial-de-la-route-des-solutions-vinci-pour-la-resilience-et-la</link>
+            <description>Le congrès PIARC, organisé tous les quatre ans par l&apos;Association mondiale de la route, rassemble des experts de près de 130 pays pour partager connaissances et bonnes pratiques afin d&apos;optimiser et de pérenniser les infrastructures routières. Lors de l&apos;édition 2026 à Chambéry, VINCI présentera ses solutions pour la décarbonation de la mobilité et la résilience des infrastructures à travers des tables rondes et des démonstrations sur son stand les 10 et 11 mars. Les sessions couvriront notamment la résilience des routes, la décarbonation des chantiers, la mobilité bas carbone et des innovations pour la viabilité hivernale. Plus d&apos;informations sont disponibles sur le site officiel du congrès.</description>
+            <pubDate>04 mars 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/image/2026/03/solarvia.jpg?h=346bc062&amp;itok=MHGj9inJ" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>VINCI et Leonard, mécènes du festival de cinéma Close-Up</title>
+            <link>https://www.vinci.com/newsroom/actualites/vinci-et-leonard-mecenes-du-festival-de-cinema-close</link>
+            <description>Le festival Close-Up, rendez-vous cinématographique parisien dédié à la ville, l&apos;architecture et les paysages, a tenu sa 5e édition du 17 au 25 novembre 2025. Sa programmation mêlait fictions, documentaires et films inédits, accompagnée de tables rondes et de débats. L&apos;événement a servi de plateforme d&apos;échanges pour les divers acteurs qui conçoivent et transforment les territoires, des étudiants aux décideurs publics en passant par les architectes et urbanistes.
+
+</description>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/image/2026/01/festival%20Close-up.jpeg?h=a0c1a9c0&amp;itok=QH2SW10U" type="image/jpeg" />
+        </item>
+
+    </channel>
+</rss>
