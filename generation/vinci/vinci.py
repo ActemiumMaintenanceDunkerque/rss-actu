@@ -160,20 +160,23 @@ def scrap_summary(url: str):
 
 # ----- FICHIER PRESSE -----
 
-start_file(
-    "vinci/presse.rss",
-    "Flux RSS communiqués de presse VINCI",
-    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci/presse.rss",
-    "Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping",
-    base_url + "/newsroom?f[0]=newsroom_content_type:communique"
-)
+try:
+    start_file(
+        "vinci/presse.rss",
+        "Flux RSS communiqués de presse VINCI",
+        "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci/presse.rss",
+        "Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping",
+        base_url + "/newsroom?f[0]=newsroom_content_type:communique"
+    )
 
-scrap(base_url + "/newsroom?f[0]=newsroom_content_type:communique", "pr", "vinci/presse.rss", True)
+    scrap(base_url + "/newsroom?f[0]=newsroom_content_type:communique", "pr", "vinci/presse.rss", True)
 
-for url in url_list:
-    scrap(url, "pr", "vinci/presse.rss")
+    for url in url_list:
+        scrap(url, "pr", "vinci/presse.rss")
 
-end_file("vinci/presse.rss")
+    end_file("vinci/presse.rss")
+except:
+    print("Une erreur est survenue dans le fichier presse")
 
 
 
@@ -181,18 +184,20 @@ url_list.clear()
 
 
 # ----- FICHIER ACTU -----
+try:
+    start_file(
+        "vinci/actu.rss",
+        "Flux RSS actualités VINCI",
+        "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci/actu.rss",
+        "Flux RSS contenant les informations sur les actualités du site de VINCI, généré par un script de scrapping",
+        base_url + "/newsroom?f[0]=newsroom_content_type:actu"
+    )
 
-start_file(
-    "vinci/actu.rss",
-    "Flux RSS actualités VINCI",
-    "https://workai7.github.io/auto-rss/rss/vinci/actu.rss",
-    "Flux RSS contenant les informations sur les actualités du site de VINCI, généré par un script de scrapping",
-    base_url + "/newsroom?f[0]=newsroom_content_type:actu"
-)
+    scrap(base_url + "/newsroom?f[0]=newsroom_content_type:actu", "actu", "vinci/actu.rss")
 
-scrap(base_url + "/newsroom?f[0]=newsroom_content_type:actu", "actu", "vinci/actu.rss")
+    for url in url_list:
+        scrap(url, "actu", "vinci/actu.rss")
 
-for url in url_list:
-    scrap(url, "actu", "vinci/actu.rss")
-
-end_file("vinci/actu.rss")
+    end_file("vinci/actu.rss")
+except:
+    print("Une erreur est survenue dans le fichier actu")
