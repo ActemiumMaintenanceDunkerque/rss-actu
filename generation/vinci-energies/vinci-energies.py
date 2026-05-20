@@ -80,7 +80,7 @@ for i in range(len(images_divs)):
 start_file(
     "vinci-energies/actu.rss",
     "Flux RSS actualités Vinci Energies",
-    "https://workai7.github.io/auto-rss/rss/vinci-energies/actu.rss",
+    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci-energies/actu.rss",
     "Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping",
     base_url
 )

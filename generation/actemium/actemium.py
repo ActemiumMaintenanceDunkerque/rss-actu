@@ -76,7 +76,7 @@ for i in range(len(images_divs)):
 start_file(
     "actemium/actu.rss",
     "Flux RSS actualités Actemium",
-    "https://workai7.github.io/auto-rss/rss/actemium/actu.rss",
+    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/actemium/actu.rss",
     "Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping",
     base_url
 )

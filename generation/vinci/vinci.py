@@ -163,7 +163,7 @@ def scrap_summary(url: str):
 start_file(
     "vinci/presse.rss",
     "Flux RSS communiqués de presse VINCI",
-    "https://workai7.github.io/auto-rss/rss/vinci/presse.rss",
+    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci/presse.rss",
     "Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping",
     base_url + "/newsroom?f[0]=newsroom_content_type:communique"
 )
