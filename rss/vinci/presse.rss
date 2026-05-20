@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping</description>
 
         <item>
+            <title>Trafics de VINCI Autoroutes et de VINCI Airports en avril 2026</title>
+            <link>https://www.vinci.com/newsroom/communiques-presse/trafics-de-vinci-autoroutes-et-de-vinci-airports-en-avril-2026</link>
+            <description>Article disponible uniquement sur le site</description>
+            <pubDate>19 mai 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/communiques/img/2026-05/autoroutes-1520.jpg?h=9914419d&amp;itok=bYzPFX_3" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>VINCI se renforce au Canada à travers l’acquisition de Modern Group of Companies</title>
             <link>https://www.vinci.com/newsroom/communiques-presse/vinci-se-renforce-au-canada-travers-lacquisition-de-modern-group</link>
             <description>VINCI Construction a annoncé l&apos;acquisition de Modern Group of Companies, basée à Moncton au Nouveau‑Brunswick, spécialisée dans les travaux routiers, le génie civil et la production de granulats et d’enrobés grâce à deux carrières intégrées. Fondée en 1945, l&apos;entreprise a réalisé en 2025 un chiffre d&apos;affaires d&apos;environ 50 millions d&apos;euros (80 millions de dollars canadiens) et emploie 160 collaborateurs. Cette opération vient compléter la présence de Northern Construction, acquise par VINCI en 2022, renforçant ainsi le maillage territorial du groupe dans les provinces de l&apos;Atlantique. En 2025, VINCI Construction a contribué à hauteur de 1,6 milliard d&apos;euros au chiffre d&apos;affaires total de VINCI au Canada, qui s&apos;est élevé à 2,0 milliards d&apos;euros.</description>
@@ -141,14 +149,6 @@
             <description>Article disponible uniquement sur le site</description>
             <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/vignette-deu-FR_1.jpg?h=92a444b5&amp;itok=tN7qtWOS" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Publication du document d’enregistrement universel 2025</title>
-            <link>https://www.vinci.com/newsroom/communiques-presse/publication-du-document-denregistrement-universel-2025</link>
-            <description>Article disponible uniquement sur le site</description>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/vignette-deu-FR_0.jpg?h=92a444b5&amp;itok=d-xtgfPL" type="image/jpeg" />
         </item>
 
     </channel>
