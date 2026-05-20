@@ -73,25 +73,28 @@ for i in range(len(images_divs)):
 
 # Ecriture
 
-start_file(
-    "actemium/actu.rss",
-    "Flux RSS actualités Actemium",
-    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/actemium/actu.rss",
-    "Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping",
-    base_url
-)
-
-for article in articles:
-    write_xml(
+try:
+    start_file(
         "actemium/actu.rss",
-        article["Titre"],
-        article["Description"],
-        article["Image"],
-        article["Lien"],
-        article["Date"]
+        "Flux RSS actualités Actemium",
+        "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/actemium/actu.rss",
+        "Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping",
+        base_url
     )
 
-end_file("actemium/actu.rss")
+    for article in articles:
+        write_xml(
+            "actemium/actu.rss",
+            article["Titre"],
+            article["Description"],
+            article["Image"],
+            article["Lien"],
+            article["Date"]
+        )
+
+    end_file("actemium/actu.rss")
 
 
-print("\nDone\n")
+    print("\nDone\n")
+except:
+    print("Une erreur est survenue")

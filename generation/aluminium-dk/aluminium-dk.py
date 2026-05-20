@@ -61,25 +61,28 @@ for i in range(len(images_divs)):
 
 # Ecriture
 
-start_file(
-    "aluminium-dk/actu.rss",
-    "Flux RSS actualités Aluminium DK",
-    "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/aluminium-dk/actu.rss",
-    "Flux RSS contenant les informations sur les actualités du site de Aluminium DK, généré par un script de scrapping",
-    base_url
-)
-
-for article in articles:
-    write_xml(
+try:
+    start_file(
         "aluminium-dk/actu.rss",
-        article["Titre"],
-        article["Description"],
-        article["Image"],
-        article["Lien"],
-        article["Date"]
+        "Flux RSS actualités Aluminium DK",
+        "https://actemiummaintenancedunkerque.github.io/rss-actu/rss/aluminium-dk/actu.rss",
+        "Flux RSS contenant les informations sur les actualités du site de Aluminium DK, généré par un script de scrapping",
+        base_url
     )
 
-end_file("aluminium-dk/actu.rss")
+    for article in articles:
+        write_xml(
+            "aluminium-dk/actu.rss",
+            article["Titre"],
+            article["Description"],
+            article["Image"],
+            article["Lien"],
+            article["Date"]
+        )
+
+    end_file("aluminium-dk/actu.rss")
 
 
-print("\nDone\n")
+    print("\nDone\n")
+except:
+    print("Une erreur est survenue")
