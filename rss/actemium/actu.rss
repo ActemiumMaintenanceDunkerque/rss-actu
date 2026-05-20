@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Flux RSS actualités Actemium</title>
-        <link>https://actemiummaintenancedunkerque.github.io/rss-actu/rss/actemium/actu.rss</link>
+        <link>https://workai7.github.io/auto-rss/rss/actemium/actu.rss</link>
         <description>Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping</description>
 
         <item>
