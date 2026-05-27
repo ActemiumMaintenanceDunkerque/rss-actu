@@ -175,8 +175,8 @@ try:
         scrap(url, "pr", "vinci/presse.rss")
 
     end_file("vinci/presse.rss")
-except:
-    print("Une erreur est survenue dans le fichier presse")
+except Exception as e:
+    print("Une erreur est survenue dans le fichier presse: " + e)
 
 
 
@@ -199,5 +199,5 @@ try:
         scrap(url, "actu", "vinci/actu.rss")
 
     end_file("vinci/actu.rss")
-except:
-    print("Une erreur est survenue dans le fichier actu")
+except Exception as e:
+    print("Une erreur est survenue dans le fichier actu : " + e)
