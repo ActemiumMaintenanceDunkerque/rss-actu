@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping</description>
 
         <item>
+            <title>Publication du Pitch Book “Why invest in VINCI, a global leader in infrastructure”</title>
+            <link>https://www.vinci.com/newsroom/communiques-presse/publication-du-pitch-book-why-invest-vinci-global-leader-0</link>
+            <description>VINCI a publié sur son site Internet son Pitch Book intitulé «Why invest in VINCI, a global leader in infrastructure», destiné principalement aux investisseurs. Le document souligne les forces du groupe : un bon positionnement sur des marchés durablement porteurs, un cash‑flow libre élevé et récurrent, ainsi qu’une situation financière très solide. Il met également en avant une politique d’allocation du capital disciplinée, un track record reconnu en croissance externe, l’alignement des intérêts entre les salariés‑actionnaires et les autres actionnaires, ainsi que la performance durable du titre et une culture partagée visant une performance globale.</description>
+            <pubDate>22 mai 2026</pubDate>
+            <enclosure url="https://www.vinci.com/themes/custom/vinci_corp/images/img-placeholder.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Trafics de VINCI Autoroutes et de VINCI Airports en avril 2026</title>
             <link>https://www.vinci.com/newsroom/communiques-presse/trafics-de-vinci-autoroutes-et-de-vinci-airports-en-avril-2026</link>
             <description>Article disponible uniquement sur le site</description>
@@ -141,14 +149,6 @@
 </description>
             <pubDate>Mon, 16 Mar 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/West%20Burton%20STEP%20Site.jpg?h=e961bbc5&amp;itok=y9xM0Jru" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Publication de la version anglaise du document d’enregistrement universel 2025</title>
-            <link>https://www.vinci.com/newsroom/communiques-presse/publication-de-la-version-anglaise-du-document-denregistrement-0</link>
-            <description>Article disponible uniquement sur le site</description>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/vignette-deu-FR_1.jpg?h=92a444b5&amp;itok=tN7qtWOS" type="image/jpeg" />
         </item>
 
     </channel>
