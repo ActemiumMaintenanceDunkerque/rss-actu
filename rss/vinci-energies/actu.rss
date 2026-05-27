@@ -2,8 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>Flux RSS actualités Vinci Energies</title>
-        <link>https://workai7.github.io/auto-rss/rss/vinci-energies/actu.rss</link>
+        <link>https://actemiummaintenancedunkerque.github.io/rss-actu/rss/vinci-energies/actu.rss</link>
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
+
+        <item>
+            <title>Le goût du partage, l’appétit du collectif</title>
+            <link>https://www.vinci-energies.com/actualites/le-gout-du-partage-lappetit-du-collectif/</link>
+            <description>Responsable commercial de plusieurs entreprises d’Actemium en Allemagne, Lukas Pflaum a résolument le goût d’apprendre… et de transmettre. Formateur QUARTZ, il a fait sienne une culture d’entreprise fondée sur la confiance et la responsabilité.</description>
+            <pubDate>Wed, 20 May 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Lukas-Pflaum_395x280_©Emanuel-Klempa.jpg" type="image/jpeg" />
+        </item>
 
         <item>
             <title>Ouverture d’un nouveau centre de formation à Sarstedt</title>
@@ -27,6 +35,14 @@
             <description>Actemium France lance la promotion 2026 de son Graduate Program destiné à de jeunes diplômés d’écoles d’ingénieurs souhaitant s’orienter vers les métiers de la maintenance industrielle.</description>
             <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Graduate-Program_395x280.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>La passion de transmettre</title>
+            <link>https://www.vinci-energies.com/actualites/la-passion-de-transmettre/</link>
+            <description>Responsable administratif et financier de Tunzini et Cegelec (VINCI Energies Building Solutions), Anne Tartar a transformé sa rigueur financière en moteur d’apprentissage collectif. Formatrice du programme QUARTZ, elle partage aujourd’hui les valeurs et les méthodes de VINCI Energies, tout en s’engageant activement dans des actions solidaires.</description>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Anne-Tartar_395x280.jpg" type="image/jpeg" />
         </item>
 
         <item>
@@ -75,22 +91,6 @@
             <description>VINCI Energies annonce l’acquisition de Sanders Machinebouw B.V. à Liempde et de Fockens &amp; van Puijenbroek Machinefabriek B.V. à Hertogenbosch, aux Pays-Bas. Par cette opération, VINCI Energies enrichit son portefeuille industriel avec des solutions de génie mécanique et de machines de haute précision.</description>
             <pubDate>Thu, 02 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Acquisition-NL_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>VINCI remporte la réalisation d’infrastructures fluviales en France</title>
-            <link>https://www.vinci-energies.com/communiques-de-presse/vinci-remporte-la-realisation-dinfrastructures-fluviales-en-france/</link>
-            <description>La Compagnie nationale du Rhône a attribué au groupement d’entreprises¹ , mené par VINCI Construction et comprenant VINCI Energies, la réalisation du doublement des portes aval des écluses de Bollène (Vaucluse) et de Châteauneuf-du-Rhône (Drôme).</description>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/03/CP_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Semi-Marathon Paris 2026 : une course, une vie sauvée</title>
-            <link>https://www.vinci-energies.com/actualites/semi-marathon-paris-2026-une-course-une-vie-sauvee/</link>
-            <description>Le 8 mars dernier, 31 Coureurs du Cœur de VINCI Energies ont participé au semi‑marathon de Paris sous les couleurs de Mécénat Chirurgie Cardiaque.</description>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/03/Semi2026_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
