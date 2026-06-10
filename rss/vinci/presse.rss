@@ -6,6 +6,22 @@
         <description>Flux RSS contenant les informations sur les communiqués de presse du site de VINCI, généré par un script de scrapping</description>
 
         <item>
+            <title>Thierry Mirville nommé directeur financier de VINCI</title>
+            <link>https://www.vinci.com/newsroom/communiques-presse/thierry-mirville-nomme-directeur-financier-de-vinci</link>
+            <description>À compter du 1ᵉʳ juin 2026, Thierry Mirville est nommé directeur financier de VINCI, succédant à Christian Labeyrie, qui prendra sa retraite fin d&apos;année. Diplômé de l&apos;ESSEC et de l&apos;IEP de Paris, il a débuté chez GTIE en 1991, puis a évolué au sein de VINCI Energies, occupant les postes de directeur financier de VINCI Energies Deutschland (2003) et de VINCI Energies (2006). En 2018, il rejoint VINCI SA pour diriger la trésorerie, les financements et la fiscalité, avant de devenir, en 2021, directeur financier du pôle VINCI Construction. Depuis le 1ᵉʳ octobre 2025, il occupait déjà les fonctions de directeur financier adjoint et membre du Comité exécutif de VINCI.</description>
+            <pubDate>01 juin 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/communiques/img/2026-05/TM.jpg?h=3a624f7c&amp;itok=Q21luhRn" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>VINCI finalise l’acquisition de Fletcher Construction en Nouvelle-Zélande</title>
+            <link>https://www.vinci.com/newsroom/communiques-presse/vinci-finalise-lacquisition-de-fletcher-construction-en-nouvelle</link>
+            <description>VINCI Construction a finalisé l’acquisition de Fletcher Construction, annoncée le 20 janvier 2026, renforçant sa présence en Nouvelle‑Zélande. Fletcher, créée en 1909 et filiale de Fletcher Building, emploie plus de 2 300 collaborateurs et réalise un chiffre d’affaires annuel d’environ 630 millions d’euros, principalement dans les travaux hydrauliques, maritimes, portuaires, aéroportuaires, ferroviaires, routiers et les énergies renouvelables. Cette opération, couplée aux précédentes acquisitions de HEB Construction à Auckland, SOL à Christchurch et Wharehine dans l’île du Nord, positionne VINCI Construction comme un acteur majeur du marché dynamique des infrastructures néo‑zélandais, où son chiffre d’affaires total en 2025 dépasse 830 millions d’euros.</description>
+            <pubDate>29 mai 2026</pubDate>
+            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-05/banner-cp-acquisition-fletcher-construction-290526.jpg?h=92a444b5&amp;itok=TvrlAhch" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Publication du Pitch Book “Why invest in VINCI, a global leader in infrastructure”</title>
             <link>https://www.vinci.com/newsroom/communiques-presse/publication-du-pitch-book-why-invest-vinci-global-leader-0</link>
             <description>VINCI a publié sur son site Internet son Pitch Book intitulé «Why invest in VINCI, a global leader in infrastructure», destiné principalement aux investisseurs. Le document souligne les forces du groupe : un bon positionnement sur des marchés durablement porteurs, un cash‑flow libre élevé et récurrent, ainsi qu’une situation financière très solide. Il met également en avant une politique d’allocation du capital disciplinée, un track record reconnu en croissance externe, l’alignement des intérêts entre les salariés‑actionnaires et les autres actionnaires, ainsi que la performance durable du titre et une culture partagée visant une performance globale.</description>
@@ -131,24 +147,6 @@
             <description>Le groupement mené par VINCI Construction et VINCI Energies a remporté un contrat de 68 millions d’euros pour doubler les portes aval des écluses de Bollène et Châteauneuf-du-Rhône sur le Rhône. Les travaux, débutant en mars 2026 pour cinq ans, visent à renforcer la sécurité et la disponibilité des infrastructures fluviales. Ils mobiliseront les expertises en génie civil, hydraulique, mécanique et électricité, tout en maintenant le fonctionnement des écluses existantes. Ce projet souligne le savoir-faire de VINCI dans les aménagements fluviaux et la capacité de VINCI Energies à fournir des solutions électriques et de contrôle‑commande performantes.</description>
             <pubDate>18 mars 2026</pubDate>
             <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/Capture%20d%E2%80%99e%CC%81cran%202026-03-18%20a%CC%80%2018.38.03.png?h=f84d3d6b&amp;itok=VdI24m8c" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Trafics de VINCI Autoroutes et de VINCI Airports en février 2026</title>
-            <link>https://www.vinci.com/newsroom/communiques-presse/trafics-de-vinci-autoroutes-et-de-vinci-airports-en-fevrier-2026</link>
-            <description>Article disponible uniquement sur le site</description>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_highlight_mobile_343x228/public/medias/communiques/img/2026-03/autoroutes-1520.jpg?h=9914419d&amp;itok=EiOJcRBp" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>VINCI remporte la conception-construction du dernier-né des projets d’énergie de fusion au Royaume-Uni</title>
-            <link>https://www.vinci.com/newsroom/communiques-presse/vinci-remporte-la-conception-construction-du-dernier-ne-des-projets</link>
-            <description>Un contrat majeur de 200 millions de livres sterling (environ 230 M€) a été attribué au groupement ILIOS, dirigé par Nuvia (VINCI Construction), pour la conception et la construction des infrastructures principales du programme STEP Fusion (Spherical Tokamak for Energy Production) dans le Nottinghamshire. Ce projet, financé par l&apos;État britannique via le partenariat UK Fusion Energy, vise à construire d&apos;ici 2040 un prototype de centrale à fusion produisant de l&apos;électricité. La première phase de 4,5 ans concerne l&apos;ensemble des bâtiments et installations du site, illustrant l&apos;expertise de VINCI Construction dans les grands projets énergétiques, notamment sur le projet ITER.
-
-</description>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci.com/sites/default/files/styles/newsroom_mobile_79x52/public/medias/communiques/img/2026-03/West%20Burton%20STEP%20Site.jpg?h=e961bbc5&amp;itok=y9xM0Jru" type="image/jpeg" />
         </item>
 
     </channel>
