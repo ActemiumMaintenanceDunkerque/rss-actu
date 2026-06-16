@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping</description>
 
         <item>
+            <title>Modernisation de la centrale hydroélectrique de Kembs</title>
+            <link>https://www.actemium.fr/realisations-evenements/modernisation-de-la-centrale-hydroelectrique-de-kembs/</link>
+            <description>Sur les rives du Rhin, la centrale hydroélectrique de Kembs (Haut-Rhin) fait l’objet d’un vaste programme de modernisation. Après la rénovation de 2 groupes en 2023 et 2024, Angélique Voisard et son équipe gagnent en 2025 une nouvelle commande pour assurer la suite de la modernisation qui porte désormais sur 3 groupes hydroélectriques (3, 5 et 6) et cinq vannes de décharge, essentielles à la sécurité et à la continuité d’exploitation. Doté d’un budget de plus d’un million d’euros, ce chantier vise à renforcer la performance et la fiabilité des installations. Pour Angélique Voisard, « ce projet s’inscrit dans une démarche de modernisation durable, avec un objectif clair : améliorer la performance tout en garantissant la continuité d’exploitation » .</description>
+            <pubDate>16.06.2026</pubDate>
+            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/06/Centrale-hydroelectrique-KEMBS-scaled.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Unither renforce ses capacités de production</title>
             <link>https://www.actemium.fr/realisations-evenements/unither-renforce-ses-capacites-de-production/</link>
             <description>Unither Pharmaceuticals, façonnier pharmaceutique spécialisé dans les formes liquides stériles et non stériles (unidoses, multidoses, flacons, stick-packs liquides et sprays), a souhaité augmenter les capacités de production de son usine de Colomiers , près de Toulouse (Haute-Garonne), en se dotant d’une nouvelle cuve de préparation d’une capacité de 10 000 litres.</description>
@@ -75,14 +83,6 @@
             <description>Après plusieurs grandes villes de France, la tournée nationale des Journées Actemium 5.0 fera étape à Châlons-en-Champagne.</description>
             <pubDate>08.12.2025</pubDate>
             <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2025/12/20221027125633-d75596c8-cu_e520x360.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Avec Nemera, Actemium Rouen Automation développe son savoir-faire dans les systèmes de tubage</title>
-            <link>https://www.actemium.fr/realisations-evenements/avec-nemera-actemium-rouen-automation-developpe-son-savoir-faire-dans-les-systemes-de-tubage/</link>
-            <description>Actemium Rouen Automation collabore depuis de nombreuses années avec Nemera, leader mondial des systèmes d’administration de médicaments destinés aux sociétés pharmaceutiques, biotechnologiques et génériques.</description>
-            <pubDate>30.10.2025</pubDate>
-            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2025/06/P1455159.00_15_28_33.Still024-scaled.jpg" type="image/jpeg" />
         </item>
 
     </channel>

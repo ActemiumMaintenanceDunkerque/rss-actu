@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>Girls’Day &amp; Boys’Day 2026</title>
+            <link>https://www.vinci-energies.com/actualites/girlsday-boysday-2026/</link>
+            <description>A l&apos;occasion du Girls&apos;Day &amp; Boys&apos;Day 2026, Axians et Omexom en Allemagne ont une nouvelle fois accueilli des élèves venus de tout le pays pour leur faire découvrir la richesse des métiers de VINCI Energies.</description>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/06/GirlsBoysDay.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Omexom remporte un contrat de cinq ans pour l’exploitation et la maintenance électrique de six parcs éoliens</title>
             <link>https://www.vinci-energies.com/actualites/omexom-remporte-un-contrat-de-cinq-ans-pour-lexploitation-et-la-maintenance-electrique-de-six-parcs-eoliens/</link>
             <description>Le contrat, couvrant la période 2026-2031, inclut des services supplémentaires et un plus grand nombre de parcs éoliens offshore.</description>
@@ -55,7 +63,7 @@
 
         <item>
             <title>VINCI remporte un contrat pour la réalisation d’infrastructures électriques en Guinée</title>
-            <link>https://www.vinci-energies.com/communiqus-de-presse/vinci-remporte-un-contrat-pour-la-realisation-dinfrastructures-electriques-en-guinee/</link>
+            <link>https://www.vinci-energies.com/communiques-de-presse/vinci-remporte-un-contrat-pour-la-realisation-dinfrastructures-electriques-en-guinee/</link>
             <description>VINCI Energies a signé avec le ministère de l’Énergie et le ministère de l’Économie et des Finances de Guinée un contrat de 192 millions d’euros pour la réalisation d’un ensemble d’infrastructures de production et de transport d’électricité. Son financement bénéficie du soutien des autorités françaises. D’une durée de deux ans et demi, les travaux mobiliseront...</description>
             <pubDate>Wed, 22 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2025/07/Presse_395x280.jpg" type="image/jpeg" />
@@ -83,14 +91,6 @@
             <description>VINCI Energies Portugal annonce l’acquisition d’AMT – Consulting S.A., une entreprise portugaise leader dans les solutions HCM (Human Capital Management) et ERP (Enterprise Resource Planning), ainsi qu’une référence dans de multiples solutions SAP, notamment SuccessFactors, Concur, Ariba et S/4HANA.</description>
             <pubDate>Tue, 07 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2025/07/Presse_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Une aventure artistique au Hameau Bellevue</title>
-            <link>https://www.vinci-energies.com/actualites/une-aventure-artistique-au-hameau-bellevue/</link>
-            <description>Les jeunes résidents du Hameau Bellevue à Salies‑de‑Béarn peuvent désormais admirer leur nouvelle fresque murale. Une œuvre collective, réalisée sous la direction de l’artiste Fanny Pierot grâce au soutien de plusieurs entreprises Actemium.</description>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Fresque_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
