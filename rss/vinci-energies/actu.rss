@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>Actemium au Royaume-Uni remporte un contrat-cadre de trois ans auprès de Guernsey Water</title>
+            <link>https://www.vinci-energies.com/actualites/brouillon-auto/</link>
+            <description>Actemium au Royaume-Uni a obtenu un contrat de trois ans d’une valeur de 500 000 £ pour devenir l’intégrateur de systèmes privilégié de Guernsey Water.</description>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/06/Guernsey-Water-Drone-Shots-Bank-18_395x280.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Girls’Day &amp; Boys’Day 2026</title>
             <link>https://www.vinci-energies.com/actualites/girlsday-boysday-2026/</link>
             <description>A l&apos;occasion du Girls&apos;Day &amp; Boys&apos;Day 2026, Axians et Omexom en Allemagne ont une nouvelle fois accueilli des élèves venus de tout le pays pour leur faire découvrir la richesse des métiers de VINCI Energies.</description>
@@ -75,14 +83,6 @@
             <description>VINCI Energies acquiert Novo Technologies Ltd, l’un des principaux fournisseurs de services d’infrastructures télécoms au Royaume-Uni.</description>
             <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Novo-Technologies.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Un enfant sauvé grâce au Paris-Roubaix Challenge</title>
-            <link>https://www.vinci-energies.com/actualites/un-enfant-sauve-grace-au-paris-roubaix-challenge/</link>
-            <description>Le 12 avril 2026, 19 collaborateurs ont participé à la course cycliste Paris-Roubaix Challenge en soutien à Mécénat Chirurgie Cardiaque.</description>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Paris-Roubaix_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
