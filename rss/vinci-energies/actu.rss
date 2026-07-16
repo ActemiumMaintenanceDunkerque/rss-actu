@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>VINCI Energies accélère son développement dans les services aux infrastructures digitales en lançant une offre publique d’achat sur All for One</title>
+            <link>https://www.vinci-energies.com/actualites/vinci-energies-accelere-son-developpement-dans-les-services-aux-infrastructures-digitales-en-lancant-une-offre-publique-dachat-sur-all-for-one/</link>
+            <description>All for One, coté à Francfort (Allemagne), est un spécialiste de l’intégration et de la maintenance de business applications, bénéficiant d’une forte implantation locale et d’un portefeuille diversifié de plus de 4 500 clients du Mittelstand.</description>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/07/Offer-VE.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>La musique au service du lien social</title>
             <link>https://www.vinci-energies.com/actualites/la-musique-au-service-du-lien-social/</link>
             <description>L’association Cottbuser Musikspatzen e.V. fait de la musique un levier d’inclusion et de cohésion. Soutenue par la VINCI-Stiftung, elle déploie un projet dédié à l’accès à l’éducation musicale pour tous.</description>
@@ -75,14 +83,6 @@
             <description>Responsable administratif et financier de Tunzini et Cegelec (VINCI Energies Building Solutions), Anne Tartar a transformé sa rigueur financière en moteur d’apprentissage collectif. Formatrice du programme QUARTZ, elle partage aujourd’hui les valeurs et les méthodes de VINCI Energies, tout en s’engageant activement dans des actions solidaires.</description>
             <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Anne-Tartar_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>VINCI remporte un contrat pour la réalisation d’infrastructures électriques en Guinée</title>
-            <link>https://www.vinci-energies.com/communiqus-de-presse/vinci-remporte-un-contrat-pour-la-realisation-dinfrastructures-electriques-en-guinee/</link>
-            <description>VINCI Energies a signé avec le ministère de l’Énergie et le ministère de l’Économie et des Finances de Guinée un contrat de 192 millions d’euros pour la réalisation d’un ensemble d’infrastructures de production et de transport d’électricité. Son financement bénéficie du soutien des autorités françaises. D’une durée de deux ans et demi, les travaux mobiliseront...</description>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2025/07/Presse_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
