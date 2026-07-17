@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>Jamie Kauffeld, la finance en accéléré</title>
+            <link>https://www.vinci-energies.com/actualites/jamie-kauffeld-la-finance-en-accelere/</link>
+            <description>Jamie Kauffeld est l’une des directrices financières de VINCI Energies aux Pays-Bas, moins de cinq ans après son entrée dans le Groupe. Un parcours remarquable qui reflète la culture d’autonomie, d’apprentissage et de mobilité interne encouragée par VINCI Energies.</description>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/07/Jamie-Kauffeld_395x280.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>VINCI Energies accélère son développement dans les services aux infrastructures digitales en lançant une offre publique d’achat sur All for One</title>
             <link>https://www.vinci-energies.com/actualites/vinci-energies-accelere-son-developpement-dans-les-services-aux-infrastructures-digitales-en-lancant-une-offre-publique-dachat-sur-all-for-one/</link>
             <description>All for One, coté à Francfort (Allemagne), est un spécialiste de l’intégration et de la maintenance de business applications, bénéficiant d’une forte implantation locale et d’un portefeuille diversifié de plus de 4 500 clients du Mittelstand.</description>
@@ -75,14 +83,6 @@
             <description>Actemium France lance la promotion 2026 de son Graduate Program destiné à de jeunes diplômés d’écoles d’ingénieurs souhaitant s’orienter vers les métiers de la maintenance industrielle.</description>
             <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Graduate-Program_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>La passion de transmettre</title>
-            <link>https://www.vinci-energies.com/actualites/la-passion-de-transmettre/</link>
-            <description>Responsable administratif et financier de Tunzini et Cegelec (VINCI Energies Building Solutions), Anne Tartar a transformé sa rigueur financière en moteur d’apprentissage collectif. Formatrice du programme QUARTZ, elle partage aujourd’hui les valeurs et les méthodes de VINCI Energies, tout en s’engageant activement dans des actions solidaires.</description>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Anne-Tartar_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
