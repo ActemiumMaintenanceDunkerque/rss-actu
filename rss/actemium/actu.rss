@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping</description>
 
         <item>
+            <title>Congés d’été : quand la maintenance veille sur les bagages des voyageurs</title>
+            <link>https://www.actemium.fr/realisations-evenements/conges-dete-quand-la-maintenance-veille-sur-les-bagages-des-voyageurs/</link>
+            <description>Chaque été, l’activité des aéroports atteint son plus haut niveau. Les équipes d’Actemium Maintenance Airports Logistics se mobilisent pour garantir la disponibilité des systèmes de tri des bagages. Une organisation millimétrée qui contribue à la fluidité du parcours des voyageurs tout au long de l’été.</description>
+            <pubDate>20.07.2026</pubDate>
+            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2022/12/AdobeStock_818799671-scaled.jpeg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Modernisation de la centrale hydroélectrique de Kembs</title>
             <link>https://www.actemium.fr/realisations-evenements/modernisation-de-la-centrale-hydroelectrique-de-kembs/</link>
             <description>Sur les rives du Rhin, la centrale hydroélectrique de Kembs (Haut-Rhin) fait l’objet d’un vaste programme de modernisation. Après la rénovation de 2 groupes en 2023 et 2024, Angélique Voisard et son équipe gagnent en 2025 une nouvelle commande pour assurer la suite de la modernisation qui porte désormais sur 3 groupes hydroélectriques (3, 5 et 6) et cinq vannes de décharge, essentielles à la sécurité et à la continuité d’exploitation. Doté d’un budget de plus d’un million d’euros, ce chantier vise à renforcer la performance et la fiabilité des installations. Pour Angélique Voisard, « ce projet s’inscrit dans une démarche de modernisation durable, avec un objectif clair : améliorer la performance tout en garantissant la continuité d’exploitation » .</description>
@@ -75,14 +83,6 @@
             <description>Dans le cadre de l’accélération de son développement et de la modernisation de son réseau de livraison et d’acheminement, GLS France a choisi Actemium pour l’automatisation de son nouveau HUB national d’une surface de 12 000m², situé au Coudray-Montceaux (Essonne).</description>
             <pubDate>19.12.2025</pubDate>
             <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2025/12/actemium_GLS-scaled.png" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Journée Actemium 5.0 Châlons-en-Champagne</title>
-            <link>https://www.actemium.fr/realisations-evenements/journee-actemium-5-0-chalons-en-champagne/</link>
-            <description>Après plusieurs grandes villes de France, la tournée nationale des Journées Actemium 5.0 fera étape à Châlons-en-Champagne.</description>
-            <pubDate>08.12.2025</pubDate>
-            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2025/12/20221027125633-d75596c8-cu_e520x360.jpg" type="image/jpeg" />
         </item>
 
     </channel>
