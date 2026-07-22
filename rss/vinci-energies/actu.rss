@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>Etape du Tour 2026 : cinq enfants sauvés</title>
+            <link>https://www.vinci-energies.com/actualites/etape-du-tour-2026-cinq-enfants-sauves/</link>
+            <description>Le 19 juillet 2026, 50 Coureurs du Cœur de VINCI Energies ont pris le départ de l’exigeante Etape du Tour de France sous les couleurs de Mécénat Chirurgie Cardiaque.</description>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/07/EDT2026_395x280.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Jamie Kauffeld, la finance en accéléré</title>
             <link>https://www.vinci-energies.com/actualites/jamie-kauffeld-la-finance-en-accelere/</link>
             <description>Jamie Kauffeld est l’une des directrices financières de VINCI Energies aux Pays-Bas, moins de cinq ans après son entrée dans le Groupe. Un parcours remarquable qui reflète la culture d’autonomie, d’apprentissage et de mobilité interne encouragée par VINCI Energies.</description>
@@ -75,14 +83,6 @@
             <description>Le 26 avril 2026, 30 collaborateurs ont pris le départ de la course cycliste Liège-Bastogne-Liège en soutien à l’UNICEF*. Grâce à l’achat de leurs dossards par leurs entreprises, ils ont transformé leurs efforts en dons pour l’organisation.</description>
             <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/LBL_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Candidatures ouvertes pour le Graduate Program Maintenance Industrielle</title>
-            <link>https://www.vinci-energies.com/actualites/candidatures-ouvertes-pour-le-graduate-program-maintenance-industrielle/</link>
-            <description>Actemium France lance la promotion 2026 de son Graduate Program destiné à de jeunes diplômés d’écoles d’ingénieurs souhaitant s’orienter vers les métiers de la maintenance industrielle.</description>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/04/Graduate-Program_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
