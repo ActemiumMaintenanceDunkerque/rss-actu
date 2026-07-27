@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping</description>
 
         <item>
+            <title>Actemium Consulting 5.0 : transformer l’industrie avec une approche pragmatique et opérationnelle</title>
+            <link>https://www.actemium.fr/realisations-evenements/actemium-consulting-5-0-transformer-lindustrie-avec-une-approche-pragmatique-et-operationnelle/</link>
+            <description>Face à l’accélération des mutations industrielles, les entreprises doivent gagner en agilité, en performance et en résilience. Une transformation qui ne se limite pas aux technologies, mais repose aussi sur les femmes, les hommes et une vision pragmatique du changement.</description>
+            <pubDate>27.07.2026</pubDate>
+            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/07/actemium5.0-1.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Congés d’été : quand la maintenance veille sur les bagages des voyageurs</title>
             <link>https://www.actemium.fr/realisations-evenements/conges-dete-quand-la-maintenance-veille-sur-les-bagages-des-voyageurs/</link>
             <description>Chaque été, l’activité des aéroports atteint son plus haut niveau. Les équipes d’Actemium Maintenance Airports Logistics se mobilisent pour garantir la disponibilité des systèmes de tri des bagages. Une organisation millimétrée qui contribue à la fluidité du parcours des voyageurs tout au long de l’été.</description>
@@ -75,14 +83,6 @@
             <description>Les marques de VINCI Energies dédiées à l’industrie et au digital seront présentes au Salon Global Industrie de Paris, l’événement incontournable dédié à l’industrie, qui se tiendra du lundi 30 mars au jeudi 2 avril 2026.</description>
             <pubDate>10.02.2026</pubDate>
             <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/02/Banniere_FR_5X148_1859.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Actemium automatise un nouvel entrepôt pour GLS France</title>
-            <link>https://www.actemium.fr/realisations-evenements/actemium-automatise-un-nouvel-entrepot-pour-gls-france/</link>
-            <description>Dans le cadre de l’accélération de son développement et de la modernisation de son réseau de livraison et d’acheminement, GLS France a choisi Actemium pour l’automatisation de son nouveau HUB national d’une surface de 12 000m², situé au Coudray-Montceaux (Essonne).</description>
-            <pubDate>19.12.2025</pubDate>
-            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2025/12/actemium_GLS-scaled.png" type="image/jpeg" />
         </item>
 
     </channel>
