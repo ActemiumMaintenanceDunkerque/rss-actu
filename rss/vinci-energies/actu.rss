@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>VINCI Energies renforce sa présence en Nouvelle-Zélande avec l’acquisition de HTS Group</title>
+            <link>https://www.vinci-energies.com/actualites/vinci-energies-renforce-sa-presence-en-nouvelle-zelande-avec-lacquisition-de-hts-group/</link>
+            <description>VINCI Energies a finalisé l’acquisition de HTS Group, société néo-zélandaise spécialisée dans les systèmes électroniques routiers, les technologies de gestion des accès et du trafic, ainsi que les solutions d’information voyageurs et de billettique pour les transports publics.</description>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/07/AcquisitionHTS_395x280.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>De la boutique au chantier, le pari réussi d’une reconversion</title>
             <link>https://www.vinci-energies.com/actualites/de-la-boutique-au-chantier-le-pari-reussi-dune-reconversion/</link>
             <description>Après dix ans dans le prêt-à-porter, Farah Benmihoub a radicalement changé de voie pour devenir monteuse électricienne chez Cegelec. Entre détermination, formation accélérée et intégration dans un milieu très masculin, elle retrace un parcours où la passion et la persévérance l’ont guidée à chaque étape.</description>
@@ -75,14 +83,6 @@
             <description>Responsable commercial de plusieurs entreprises d’Actemium en Allemagne, Lukas Pflaum a résolument le goût d’apprendre… et de transmettre. Formateur QUARTZ, il a fait sienne une culture d’entreprise fondée sur la confiance et la responsabilité.</description>
             <pubDate>Wed, 20 May 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Lukas-Pflaum_395x280_©Emanuel-Klempa.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Ouverture d’un nouveau centre de formation à Sarstedt</title>
-            <link>https://www.vinci-energies.com/actualites/ouverture-dun-nouveau-centre-de-formation-a-sarstedt/</link>
-            <description>VINCI Energies Building Solutions développe les compétences de ses effectifs et crée un réseau national de formation.</description>
-            <pubDate>Mon, 04 May 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/IBS_DE_395x280.jpg" type="image/jpeg" />
         </item>
 
     </channel>
