@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>Bertrand Leclerc, en alerte</title>
+            <link>https://www.vinci-energies.com/actualites/bertrand-leclerc-en-alerte/</link>
+            <description>Pur produit « maison » où il a débuté comme alternant, le directeur de la cybersécurité de VINCI Energies est un ultra-traileur aguerri qui conjugue endurance et vigilance au service d’un groupe international exposé en permanence aux cybermenaces.</description>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/08/Bertrand-Leclerc_OK.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>VINCI Energies renforce sa présence en Nouvelle-Zélande avec l’acquisition de HTS Group</title>
             <link>https://www.vinci-energies.com/actualites/vinci-energies-renforce-sa-presence-en-nouvelle-zelande-avec-lacquisition-de-hts-group/</link>
             <description>VINCI Energies a finalisé l’acquisition de HTS Group, société néo-zélandaise spécialisée dans les systèmes électroniques routiers, les technologies de gestion des accès et du trafic, ainsi que les solutions d’information voyageurs et de billettique pour les transports publics.</description>
@@ -75,14 +83,6 @@
             <description>Le contrat, couvrant la période 2026-2031, inclut des services supplémentaires et un plus grand nombre de parcs éoliens offshore.</description>
             <pubDate>Mon, 01 Jun 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/06/CP-Omexom-Eneco_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Le goût du partage, l’appétit du collectif</title>
-            <link>https://www.vinci-energies.com/actualites/le-gout-du-partage-lappetit-du-collectif/</link>
-            <description>Responsable commercial de plusieurs entreprises d’Actemium en Allemagne, Lukas Pflaum a résolument le goût d’apprendre… et de transmettre. Formateur QUARTZ, il a fait sienne une culture d’entreprise fondée sur la confiance et la responsabilité.</description>
-            <pubDate>Wed, 20 May 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/05/Lukas-Pflaum_395x280_©Emanuel-Klempa.jpg" type="image/jpeg" />
         </item>
 
     </channel>
