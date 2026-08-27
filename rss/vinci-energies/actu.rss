@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Vinci Energies, généré par un script de scrapping</description>
 
         <item>
+            <title>VINCI Energies acquiert le groupe SECAL</title>
+            <link>https://www.vinci-energies.com/actualites/vinci-energies-acquiert-le-groupe-secal/</link>
+            <description>VINCI Energies vient d’acquérir le groupe SECAL, constitué de quatre sociétés spécialisées dans le levage industriel : SECAL, SN Solomat, SERAL et Europtech.</description>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 -0000</pubDate>
+            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/08/©Albioma.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Un parcours atypique, loin des lignes droites</title>
             <link>https://www.vinci-energies.com/actualites/un-parcours-atypique-loin-des-lignes-droites/</link>
             <description>À 38 ans, Alexis Martel est, depuis mai 2026, responsable achats chez Omexom Nîmes. Auparavant, il encadrait, au sein d’Omexom OHL International, la construction d’une ligne électrique stratégique dans le nord de la Finlande. Derrière ces expériences exigeantes, où la technique côtoie l’humain, se dessine un parcours professionnel singulier, fait de virages, de remises en question et de choix assumés.</description>
@@ -75,14 +83,6 @@
             <description>Actemium au Royaume-Uni a obtenu un contrat de trois ans d’une valeur de 500 000 £ pour devenir l’intégrateur de systèmes privilégié de Guernsey Water.</description>
             <pubDate>Tue, 23 Jun 2026 00:00:00 -0000</pubDate>
             <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/06/Guernsey-Water-Drone-Shots-Bank-18_395x280.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Girls’Day &amp; Boys’Day 2026</title>
-            <link>https://www.vinci-energies.com/actualites/girlsday-boysday-2026/</link>
-            <description>A l&apos;occasion du Girls&apos;Day &amp; Boys&apos;Day 2026, Axians et Omexom en Allemagne ont une nouvelle fois accueilli des élèves venus de tout le pays pour leur faire découvrir la richesse des métiers de VINCI Energies.</description>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 -0000</pubDate>
-            <enclosure url="https://www.vinci-energies.com/app/uploads/sites/7/2026/06/GirlsBoysDay.jpg" type="image/jpeg" />
         </item>
 
     </channel>
