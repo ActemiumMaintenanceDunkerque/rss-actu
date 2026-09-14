@@ -6,6 +6,14 @@
         <description>Flux RSS contenant les informations sur les actualités du site d'Actemium, généré par un script de scrapping</description>
 
         <item>
+            <title>Antoine et Caroline courent le Big Half de Londres pour les enfants de Mécénat Chirurgie Cardiaque</title>
+            <link>https://www.actemium.fr/realisations-evenements/antoine-et-caroline-courent-le-big-half-de-londres-pour-les-enfants-de-mecenat-chirurgie-cardiaque/</link>
+            <description>Le 6 septembre 2026, Londres a accueilli une aventure sportive et solidaire à laquelle ont participé Antoine Anceau, Chargé de Communication, et Caroline Duits, Responsable Juridique Droit Social chez VINCI Energies France Industrie Nord-Est. Aux côtés d’une trentaine de collaborateurs de VINCI Energies venus de différents pays et métiers, ils ont participé au Big Half, le semi-marathon londonien, dans le cadre du partenariat du Groupe avec Mécénat Chirurgie Cardiaque. Une épreuve de 21,1 km, mais surtout une course porteuse de sens : permettre à des enfants atteints de malformations cardiaques, vivant dans des pays où les moyens techniques et financiers ne permettent pas de les soigner, de venir en France pour y être opérés.</description>
+            <pubDate>14.09.2026</pubDate>
+            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/09/1787920673624_Page_3_Image_0001-Copie.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Actemium Consulting 5.0 : transformer l’industrie avec une approche pragmatique et opérationnelle</title>
             <link>https://www.actemium.fr/realisations-evenements/actemium-consulting-5-0-transformer-lindustrie-avec-une-approche-pragmatique-et-operationnelle/</link>
             <description>Face à l’accélération des mutations industrielles, les entreprises doivent gagner en agilité, en performance et en résilience. Une transformation qui ne se limite pas aux technologies, mais repose aussi sur les femmes, les hommes et une vision pragmatique du changement.</description>
@@ -75,14 +83,6 @@
             <description>Porté par ResiCare, entité de la division Michelin Engineered Polymers dédiée aux solutions issues de la chimie verte, le projet Cerisea ouvre la voie à une nouvelle génération de résines biosourcées 5-HMF . À partir de fructose de betterave, l’entreprise élabore des résines et colles non toxiques destinées par exemple à des matériaux dans l’aviation, dans les pneus et l’industrie manufacturière du bois. Une innovation conçue pour réduire l’empreinte environnementale de nombreux biens d’équipement.</description>
             <pubDate>10.02.2026</pubDate>
             <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/02/Photos-ACTEMIUM-7.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Actemium et Axians au Salon Global Industrie Paris 2026</title>
-            <link>https://www.actemium.fr/realisations-evenements/actemium-et-axians-au-salon-global-industrie-paris-2026/</link>
-            <description>Les marques de VINCI Energies dédiées à l’industrie et au digital seront présentes au Salon Global Industrie de Paris, l’événement incontournable dédié à l’industrie, qui se tiendra du lundi 30 mars au jeudi 2 avril 2026.</description>
-            <pubDate>10.02.2026</pubDate>
-            <enclosure url="https://www.actemium.fr/app/uploads/sites/85/2026/02/Banniere_FR_5X148_1859.jpg" type="image/jpeg" />
         </item>
 
     </channel>
