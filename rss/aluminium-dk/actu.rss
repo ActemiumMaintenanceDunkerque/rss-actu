@@ -6,6 +6,54 @@
         <description>Flux RSS contenant les informations sur les actualités du site de Aluminium DK, généré par un script de scrapping</description>
 
         <item>
+            <title>Semaine de la Qualité de Vie et des Conditions de Travail (QVCT)</title>
+            <link>https://www.aluminiumdunkerque.fr/semaine-de-la-qualite-de-vie-et-des-conditions-de-travail-qvct/</link>
+            <description>En juin 2026, Aluminium Dunkerque a consacré une semaine à la Qualité de Vie et des Conditions de Travail (QVCT), avec plusieurs initiatives autour de la santé, du bien-être et de la prévention.</description>
+            <pubDate>2026-09-22T21:32:51+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/Capture-decran-2026-09-02-152846.png" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Aluminium Dunkerque met la mobilité douce l’honneur</title>
+            <link>https://www.aluminiumdunkerque.fr/aluminium-dunkerque-met-la-mobilite-douce-lhonneur/</link>
+            <description>Chez Aluminium Dunkerque, notre engagement en faveur d’une industrie plus responsable passe aussi par les déplacements du quotidien.</description>
+            <pubDate>2026-09-22T21:29:53+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/Capture-decran-2026-09-02-152639.png" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Aluminium Dunkerque vibre par le sport</title>
+            <link>https://www.aluminiumdunkerque.fr/aluminium-dunkerque-vibre-par-le-sport/</link>
+            <description>Cet été, plusieurs de nos collaborateurs ont pu participer à différents tournois sportifs interentreprise organisés dans la région, en portant fièrement les couleurs de l’entreprise.</description>
+            <pubDate>2026-09-22T21:26:57+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/Capture-decran-2026-06-24-135504-500x500.png" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>AD ouvre ses portes à ses partenaires !</title>
+            <link>https://www.aluminiumdunkerque.fr/ad-ouvre-ses-portes-a-ses-partenaires/</link>
+            <description>Au cours du mois de juin, nous avons ouvert nos portes à plusieurs acteurs engagés du territoire afin de découvrir notre site et notre savoir-faire.</description>
+            <pubDate>2026-09-22T21:24:35+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/Capture-decran-2026-06-24-134848-500x500.png" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Best managed companies : Aluminium Dunkerque labellisée une nouvelle fois</title>
+            <link>https://www.aluminiumdunkerque.fr/best-managed-companies-aluminium-dunkerque-labellisee-une-nouvelle-fois/</link>
+            <description>Le 18 juin, Aluminium Dunkerque a obtenu, pour la seconde année,  le renouvellement de sa labellisation « Best Managed Companies », décernée par Deloitte France en partenariat avec le groupe Banque Nationale du Canada.</description>
+            <pubDate>2026-09-22T21:20:22+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/Deloitte_18062026_┬®ADetienne_221-500x500.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Remise des Médailles du travail : une soirée placée sous le signe de la reconnaissance.</title>
+            <link>https://www.aluminiumdunkerque.fr/remise-des-medailles-du-travail-une-soiree-placee-sous-le-signe-de-la-reconnaissance/</link>
+            <description>Le 11 juin dernier, Aluminium Dunkerque a organisé sa traditionnelle cérémonie de remise des Médailles du travail à l’Ermitage du Bois Joli.</description>
+            <pubDate>2026-09-22T21:15:18+02:00</pubDate>
+            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/09/133-Photo-500x500.jpg" type="image/jpeg" />
+        </item>
+
+        <item>
             <title>Notre rapport RSE 2025 est en ligne et sous une  nouvelle forme !</title>
             <link>https://www.aluminiumdunkerque.fr/notre-rapport-rse-2025-est-en-ligne-et-sous-une-nouvelle-forme/</link>
             <description>Fruit d’un travail de presque 2 ans, Aluminium Dunkerque, en lien avec le cabinet Ekodev, a nouvellement construit sa stratégie RSE (Responsabilité Sociétale des Entreprises).</description>
@@ -35,54 +83,6 @@
             <description>En avril dernier, Aluminium Dunkerque a participé à une collecte de vêtements au profit de l’association La Cravate Solidaire, avec le soutien de la Fondation du Dunkerquois Solidaire, pour laquelle l’entreprise est membre fondateur. Une initiative solidaire qui a mobilisé de nombreux collaborateurs autour d’un objectif commun : donner une seconde vie à des vêtements professionnels tout en soutenant l’accès à l’emploi des jeunes du territoire.</description>
             <pubDate>2026-06-02T11:47:58+02:00</pubDate>
             <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/06/Image-3.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Retour sur notre job-dating alternance du 6 mai !</title>
-            <link>https://www.aluminiumdunkerque.fr/retour-sur-notre-job-dating-alternance-du-6-mai/</link>
-            <description>Le 6 mai dernier, Aluminium Dunkerque a organisé un job-dating alternance qui a réuni environ 140 candidats, autour des métiers de la maintenance et de la production pour la préparation d’un diplôme de niveau BAC.</description>
-            <pubDate>2026-06-02T11:40:58+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/06/Image-4-500x500.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Silence, ça tourne ! Nos métiers mis en valeur</title>
-            <link>https://www.aluminiumdunkerque.fr/silence-ca-tourne-nos-metiers-mis-en-valeur/</link>
-            <description>Chez Aluminium Dunkerque, valoriser chacun de nos collaborateurs est une priorité. C’est pourquoi nous lançons une nouvelle série de vidéos métiers, actuellement en production.</description>
-            <pubDate>2026-06-02T11:36:33+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/06/Image-1-500x500.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Décarboner l’industrie, concrètement : une nouvelle étape franchie !</title>
-            <link>https://www.aluminiumdunkerque.fr/decarboner-lindustrie-concretement-une-nouvelle-etape-franchie/</link>
-            <description>Le projet ACCEL, dédié à la capture et au stockage du CO₂, a récemment atteint un jalon majeur. L’État a attribué une subvention de 360 millions d’euros (Appel d’Offres Grand Projets industriels de décarbonation), reconnaissant à la fois l’importance de la décarbonation industrielle, la pertinence des solutions de Carbon Capture &amp; Storage lorsqu’il n’existe pas d’alternative technique, et la maturité du projet porté par Aluminium Dunkerque.</description>
-            <pubDate>2026-04-02T14:22:17+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/04/51-Photo-3-500x500.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Aluminium Dunkerque partenaire de Swimming Expedition (association de Stève le Phoque) et de la Fondation de la Mer</title>
-            <link>https://www.aluminiumdunkerque.fr/aluminium-dunkerque-partenaire-de-swimming-expedition-association-de-steve-le-phoque-et-de-la-fondation-de-la-mer/</link>
-            <description>Aluminium Dunkerque a structuré sa politique de mécénat autour de 2 axes, directement liés à nos enjeux stratégiques :Le soutien aux actions favorisant l’insertion et l’emploi des jeunesL’appui à des démarches visant à préserver l’environnement et, plus précisément, à accélérer la décarbonation.</description>
-            <pubDate>2026-04-02T14:20:25+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/04/STEVE-le-phoque-500x500.jpg" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Une réduction de 64 % de notre consommation d’eau potable depuis 2019</title>
-            <link>https://www.aluminiumdunkerque.fr/une-reduction-de-64-de-notre-consommation-deau-depuis-2019/</link>
-            <description>Implantée dans une zone soumise à un stress hydrique important, Aluminium Dunkerque poursuit activement sa démarche de sobriété et de gestion responsable de l’eau. En 2025, le site affiche une réduction globale de 25 % de ses consommations d’eau (industrielle et potable) par rapport à 2019, dont -64 % pour l’eau potable.</description>
-            <pubDate>2026-04-02T14:17:12+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/04/evenement-01-1-500x500.png" type="image/jpeg" />
-        </item>
-
-        <item>
-            <title>Forum des Partenaires Industriels EDF : Aluminium Dunkerque partage son expertise en management de la Sécurité</title>
-            <link>https://www.aluminiumdunkerque.fr/forum-des-partenaires-industriels-edf-aluminium-dunkerque-partage-son-expertise-en-management-de-la-securite/</link>
-            <description>Le 3 février dernier, la centrale EDF de Gravelines organisait son Forum des Partenaires Industriels au Channel à Calais. Notre service Santé/Sécurité a introduit cet événement en partageant un retour d’expérience sur le management de la Sécurité chez Aluminium Dunkerque, sous la forme de quatre thématiques.</description>
-            <pubDate>2026-04-02T14:15:34+02:00</pubDate>
-            <enclosure url="https://www.aluminiumdunkerque.fr/wp-content/uploads/2026/04/EDF-Forum-securite-500x500.jpeg" type="image/jpeg" />
         </item>
 
     </channel>
